@@ -1,4 +1,4 @@
-package com.hulaanmo.accounts.entity;
+package com.hulaanmo.accounts.domain.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
